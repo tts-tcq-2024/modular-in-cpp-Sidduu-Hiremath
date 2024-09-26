@@ -1,6 +1,6 @@
 #ifndef COLORPAIR_H
 #define COLORPAIR_H
-
+ 
 #include <string>
 
 namespace TelCoColorCoder 
